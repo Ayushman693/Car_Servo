@@ -1,2 +1,2 @@
 # Car_Servo
-Project based on Full Stack
+An application based on Full Stack to solve the problems related to service of car
